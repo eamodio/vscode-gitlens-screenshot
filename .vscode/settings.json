@@ -1,0 +1,9 @@
+{
+    "gitlens.codeLens.enabled": false,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "panel.background": "#141414",
+        "sideBar.background": "#141414",
+        "editor.background": "#141414"
+    }
+}
